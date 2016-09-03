@@ -1,0 +1,6 @@
+framework module TTCache {
+  umbrella header "TTCache.h"
+
+  export *
+  module * { export * }
+}
